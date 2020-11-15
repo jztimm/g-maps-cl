@@ -1,7 +1,7 @@
 <h1 align="center">G-Maps CL 🗺️</h1>
 
 <div align="center">
-  An <code>HTML</code> Google maps clone designed for users to get direction to where you want to go.
+  An <code>HTML & JS</code> Google maps clone designed for users to get direction to where you want to go.
 </div>
 <br/>
 <p align="center">
